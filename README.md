@@ -28,13 +28,3 @@ cd whatsapp-admin-acessbot
 npm install @whiskeysockets/baileys pino
 node bot.js
 
-
-
-
-
----
-
----
-
-## **🌐 2. HTML Version (For Websites)**
-```html
