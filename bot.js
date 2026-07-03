@@ -17,17 +17,9 @@ const CONFIG = {
     // AAPKE LOGS SE NIKALE GAYE SARE MEMBERS KE ORIGINAL INTERNAL IDs & NUMBERS
     AUTHORIZED_USERS: [
         "41189189394538",   // Aapka active ID
-        "182292001628356",  // Group member ID 1
-        "186466625957985",  // Group member ID 2
-        "218782127653093",  // Group member ID 3
-        "20766921859270",   // Group member ID 4
-        "107078198796417",  // Group member ID 5
-        "227852796616846",  // Group member ID 6
-        // Backup ke liye aapke saare phone numbers bhi bina space ke add hain:
-        "918407858677", "918168244630", "918969602920", "918927024235",
-        "919474029938", "919208759400", "919429621083", "918102708334",
-        "918420611159", "918371876135", "919795681839", "919979942108",
-        "919286191410", "48459233903"
+       
+       //add here user id to make tham authorise format : "userid"
+       
     ],
     BOT_NAME: "Admin Bot"
 };
