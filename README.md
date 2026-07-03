@@ -23,5 +23,7 @@
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/whatsapp-admin-bot.git
-cd whatsapp-admin-bot
+git clone https://github.com/raintry1/whatsappp-admin-acessbot
+cd whatsapp-admin-acessbot
+npm install @whiskeysockets/baileys pino
+node bot.js
